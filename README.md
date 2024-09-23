@@ -1,0 +1,1 @@
+# plugins-favicon-xt-manager
